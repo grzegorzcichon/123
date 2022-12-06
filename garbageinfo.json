@@ -17,7 +17,7 @@
 {
         "name":"Metale i tworzywa sztuczne",
         "urlAvatar":"https://media.castorama.pl/media/catalog/product/N/a/Naklejka_na_kosz_do_segregacji_smieci_Plastik-112705-133911.webp",
-        "description":"Przed wyrzuceniem zgniataj plastikowe butelki, puszki i kartoniki.Zajmują w ten sposób mniej miejsca w koszu na odpady, a potem także w transporcie"
+        "description":"Przed wyrzuceniem zgniataj plastikowe butelki, puszki i kartoniki.Zajmują w ten sposób mniej miejsca w koszu na odpady, a potem także w transporcie",
         "dropin":[
             "* zgniecione plastikowe butelki po napojach z zakrętkami",
             "* plastikowe opakowania po produktach spożywczych"
@@ -31,7 +31,7 @@
 {
         "name":"Papier",
         "urlAvatar":"https://media.castorama.pl/media/catalog/product/N/a/Naklejka_na_kosz_do_segregacji_smieci_Papier-112707-133913.webp",
-        "description":"Oszczędaj papier - używaj dwóch stron kartki papieru do pisania lub rysowania; nie drukuj tego, co możesz przeczytać w wersji elektronicznej. Odpakowuj prezęty tak żeby ponownie wykorzystać papier do opakowani, nikt się nie obrazi"
+        "description":"Oszczędaj papier - używaj dwóch stron kartki papieru do pisania lub rysowania; nie drukuj tego, co możesz przeczytać w wersji elektronicznej. Odpakowuj prezęty tak żeby ponownie wykorzystać papier do opakowani, nikt się nie obrazi",
         "dropin":[
             "* opakowania z papieru, karton, tekturę (także falistą) ",
             "* katalogi, ulotki, prospekty"
@@ -45,7 +45,7 @@
 {
         "name":"Szkło",
         "urlAvatar":"https://media.castorama.pl/media/catalog/product/N/a/Naklejka_na_kosz_do_segregacji_smieci_Szklo-112706-133912.webp",
-        "description":"Odpadów szklanych nie należy przed wyrzuceniem tłuc. Z butelek nie trzeba usuwać papierowych naklejek. Należy wrzucać je bez zacisków, kapsli i nakrętek."
+        "description":"Odpadów szklanych nie należy przed wyrzuceniem tłuc. Z butelek nie trzeba usuwać papierowych naklejek. Należy wrzucać je bez zacisków, kapsli i nakrętek.",
         "dropin":[
             "* szkalane butelki i słoiki po napojach i żywności (w tym butelki po napojach alkoholowych i olejach roślinnych",
             "* szklane opakowania po kosmetykach (jeżelinie są wykonane z trwale połączonych kilku surowców"
