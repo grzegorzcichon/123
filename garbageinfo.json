@@ -31,7 +31,48 @@
         "description":"Odpadów szklanych nie należy przed wyrzuceniem tłuc. Z butelek nie trzeba usuwać papierowych naklejek. Należy wrzucać je bez zacisków, kapsli i nakrętek.",
         "dropin":"* szkalane butelki i słoiki po napojach i żywności (w tym butelki po napojach alkoholowych i olejach roślinnych",
         "dontdropin":"* ceramiki, doniczek, porcelany, fajansu",
-        "goodtoknow": "Koażda szklana butelka ponownie wprowadzona do obiegu pozwala zaoszczędzić energię potrzebną do świecenia 100 watowej żarówki przez 4 godziny."
+        "goodtoknow": "Każda szklana butelka ponownie wprowadzona do obiegu pozwala zaoszczędzić energię potrzebną do świecenia 100 watowej żarówki przez 4 godziny."
+    },
+  {
+        "name":"Odpady bio",
+        "urlAvatar":"https://domowykoszyk.pl/userdata/public/assets//15%20cm%20Bio.png",
+        "description":"Pamiętaj, że odpady BIO należy gromadzić w pojemnikach. Pojemniki do gromadzenia ww. odpadów powinny uwzględniać obowiązujące normy oraz być w kolorze brązowy",
+        "dropin":"* odpadki warzywne i owocowe (w tym obierki itp.)",
+        "dontdropin":"* bioodpadów w workach z tworzyw sztucznych",
+        "goodtoknow": "Bioodpady należy wrzucać luzem bądź w workach biodegradowalnych/ kompostowalnych lub papierowych. Zabrania się umieszczenia bioodpadów w workach i opakowaniach z tworzyw sztucznych."
+    },
+   {
+        "name":"Odpady wystawkowe",
+        "urlAvatar":"https://www.puk-kalisz.pl/img/segregacja/wielkogabarytowe.jpg",
+        "description":"Odpady wystawkowe - to odpady kounalne, które ze względu na swój rozmiar, wagę bądź rodzaj nie mogą być umieszczane w pojemnikach lub workach przeznaczonych do zbierania odpadów komunalnych",
+        "dropin":"* zużyte opony z pojazdów o dopuszczalnej masie całkowitej do 3,5 t",
+        "dontdropin":"* części samochodowych",
+        "goodtoknow": "Odpady wystawkowe należy wystawić do godziny 6:00 przed teren nieruchomości w dniu przewidzianego wywozu zgodnie z harmonogramem."
+    },
+     {
+        "name":"Zużyty sprzęt elektryczny i elektroniczny",
+        "urlAvatar":"https://gminaslupca.pl/wp-content/uploads/2019/04/recy.jpg",
+        "description":"Do elektroodpadów zaliczamy m. in. sprzęt AGD(np. pralki, lodówki zamrażarki, zmywarki, kuchenki, mikrofalówki), telewizory, komputery, telefony komórkowe, radia, miksery, śwetlówki",
+        "dropin":"",
+        "dontdropin":"",
+        "goodtoknow": "Elektroodpady można przekazać m.in. do odbiorcy odpadów komunalnych"
+    },
+  {
+        "name":"Odpady niebezpieczne",
+        "urlAvatar":"https://www.puk-kalisz.pl/img/segregacja/niebezpieczne.jpg",
+        "description":"Odpady niebezpieczne, są to odpady, które ze względu na swe pochodzenie, skład chemiczny, biologiczny i inne właściwości lub okoliczności stanowią zagrożenie dla życia, zdrowia ludzkiego.",
+        "dropin":"* rozpuszczalniki, kwasy, alkalia, odczynniki footgraficzne, środki ochrony rośliny",
+        "dontdropin":"* Nie wolno ich wrzucać do odpadów zmieszanych?",
+        "goodtoknow": "Jedna bateria z zegarka elektronicznego może zatruć aż 400 litrów wody. Nie wyrzucaj bateri do kosza. Oddawaj je w punkcie zbiórki albo wyrzucaj do spacjalnego pojemnika w sklepie."
+    },
+  {
+        "name":"Przeterminowane leki",
+        "urlAvatar":"https://www.reoamos.pl/fotocache/bigorig/NSO21-PL.jpg",
+        "description":". ",
+        "dropin":"Nie wyrzucaj przeterminowanych leków do kosza na śmieci. Zanieść je do apteki i umieść w specjalnie oznakowanym pojemniku albo oddaj do PSZOK lub MPSZOK",
+        "dontdropin":"",
+        "goodtoknow": ""
     }
+  
 
 ]
