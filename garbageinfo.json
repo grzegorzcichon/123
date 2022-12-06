@@ -25,7 +25,8 @@
         "dontdropin":[
             "* butelek i pojemników z zawartością",
             "* plastikowych zabawek "
-        ]
+        ],
+        "goodtoknow": "Z 35 plastikowych butelek można wyprodukować bluzę z polaru.Dzięki recyklinkowi oszczędzasz surowce i energię."
     },
 {
         "name":"Papier",
@@ -37,7 +38,23 @@
         ],
         "dontdropin":[
             "* ręczników papierowych i zużytych chusteczek higienicznych",
-            "* pkartonów po mleku i napojach "
-        ]
+            "* kartonów po mleku i napojach "
+        ],
+        "goodtoknow": "Każda tona uzyskanej makulatury pozwoli zaoszczędzić 1200 litrów wody w papierni oraz 2,5 m3 przestrzeni środowiska."
     },
+{
+        "name":"Szkło",
+        "urlAvatar":"https://media.castorama.pl/media/catalog/product/N/a/Naklejka_na_kosz_do_segregacji_smieci_Szklo-112706-133912.webp",
+        "description":"Odpadów szklanych nie należy przed wyrzuceniem tłuc. Z butelek nie trzeba usuwać papierowych naklejek. Należy wrzucać je bez zacisków, kapsli i nakrętek."
+        "dropin":[
+            "* szkalane butelki i słoiki po napojach i żywności (w tym butelki po napojach alkoholowych i olejach roślinnych",
+            "* szklane opakowania po kosmetykach (jeżelinie są wykonane z trwale połączonych kilku surowców"
+        ],
+        "dontdropin":[
+            "* ceramiki, doniczek, porcelany, fajansu",
+            "* szkła okularowego "
+        ],
+      "goodtoknow": "Koażda szklana butelka ponownie wprowadzona do obiegu pozwala zaoszczędzić energię potrzebną do świecenia 100 watowej żarówki przez 4 godziny."
+    },
+
 ]
