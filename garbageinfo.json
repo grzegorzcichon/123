@@ -5,7 +5,7 @@
     "urlAvatar": "https://media.castorama.pl/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/N/a/Naklejka_na_kosz_do_segregacji_smieci_Odpady_zmieszane-122194-537867.jpg",
     "description" : "Wszytko to, czego nie można odzyskiwać w procesie recyklingu, z wyłaczeniem odpadów niebezpiecznych, wrzucamy do pojemnika z odpadami zmieszanymi",
     "dropin" : "* pieluchy jednorazowe i art.higieniczne",
-    "dontdropin" : "* zużytego sprzętu elektrycznego i elektronicznego",
+    "dontdropin" : "* zużytego sprzętu elektrycznego i elektronicznego"
               
 
   },
