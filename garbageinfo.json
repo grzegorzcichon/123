@@ -6,7 +6,7 @@
     "description" : "Wszytko to, czego nie można odzyskiwać w procesie recyklingu, z wyłaczeniem odpadów niebezpiecznych, wrzucamy do pojemnika z odpadami zmieszanymi",
     "dropin" : "* pieluchy jednorazowe i art.higieniczne",
     "dontdropin" : "* zużytego sprzętu elektrycznego i elektronicznego"
-              
+    "goodtoknow" : ""        
 
   },
 {
@@ -22,6 +22,7 @@
         "urlAvatar":"https://media.castorama.pl/media/catalog/product/N/a/Naklejka_na_kosz_do_segregacji_smieci_Papier-112707-133913.webp",
         "description":"Oszczędaj papier - używaj dwóch stron kartki papieru do pisania lub rysowania; nie drukuj tego, co możesz przeczytać w wersji elektronicznej. Odpakowuj prezęty tak żeby ponownie wykorzystać papier do opakowani, nikt się nie obrazi",
         "dropin":"* opakowania z papieru, karton, tekturę (także falistą)",
+         "dontdropin":"* tapet",
         "goodtoknow": "Każda tona uzyskanej makulatury pozwoli zaoszczędzić 1200 litrów wody w papierni oraz 2,5 m3 przestrzeni środowiska."
     },
 {
